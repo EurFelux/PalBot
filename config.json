@@ -4,7 +4,14 @@
     "encrypt_key": "",
     "client_id": "",
     "client_secret": "", 
+    "access_key": "",
+    "secret_key": "",
+    "project_id": "",
+    "server_id": "",
     "webhook_port": 5000,
     "webhook_route": "/",
-    "using_ws": false
+    "using_ws": false,
+    "server_ip": "",
+    "rcon_port": 25575,
+    "admin_password": ""
 }

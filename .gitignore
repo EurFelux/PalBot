@@ -1,1 +1,4 @@
 config_private.json
+*.ipynb
+apig_sdk
+licenses
